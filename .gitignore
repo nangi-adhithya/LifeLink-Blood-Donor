@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.gradle/
+**/build/
+.idea/
+.vscode/
+*.log
+.env
+.env.*
+!.env.example
+application.properties
